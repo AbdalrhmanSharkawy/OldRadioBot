@@ -1,0 +1,25 @@
+{
+  "name": "mustebot",
+  "main": "index.js",
+  "author": "Cuodu",
+  "version": "3.0",
+  "repository": "",
+  "description": "Add a touch to your server",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-banner": "^1.6.7",
+    "discord-player": "^3.4.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.3",
+    "ffmpeg-static": "^4.4.0",
+    "i18n": "^0.13.3",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "quick.eco": "^6.0.0"
+  }
+}
